@@ -1,0 +1,6 @@
+pkg
+nbproject
+spec/app_config.yml
+benchmark/
+.idea
+*.swp

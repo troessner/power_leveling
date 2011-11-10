@@ -1,0 +1,11 @@
+:redis:
+  :host: localhost
+  :port: '6379'
+  :password:
+:cassandra:
+  :default_keyspace: 'system'
+  :spec_keyspace: 'Spec'
+  :host: 'localhost'
+  :port: '9160'
+  :app_id: Sales
+  :event_id: Checkout
